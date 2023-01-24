@@ -6,7 +6,11 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>Calendario</h1>
+    <>
+
+      <h1>Calendario</h1>
+      <p>ESTE ES UNA APP DE CALENDARIO</p>
+    </>
   )
 }
 
